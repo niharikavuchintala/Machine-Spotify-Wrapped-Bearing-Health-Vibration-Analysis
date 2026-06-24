@@ -17,7 +17,7 @@ This project uses standard Python data science libraries:
 * **numpy:** Used to process the data and calculate the Fast Fourier Transform (FFT).
 * **matplotlib.pyplot:** Used to draw and plot the raw waves and equalizer graphs.
 
-## ⚙️ Prerequisites 
+## Prerequisites 
 To run this project on your local machine, you will need:
 * **Python 3.x** installed on your computer.
 * **Visual Studio Code (VS Code)** or another code editor.
