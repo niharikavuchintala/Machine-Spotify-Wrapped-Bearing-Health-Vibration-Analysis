@@ -1,5 +1,8 @@
 # Machine Spotify Wrapped: Bearing Health & Vibration Analysis
 
+## Link to see the direct working in Google Collab
+https://colab.research.google.com/drive/1A2o2mPvvk2zwJzQZyTe-5dNoZadQoUcn?usp=sharing
+
 ## Aim of the Project
 The primary aim of this project is to successfully detect mechanical faults in industrial machinery by analyzing raw vibration data. By calculating statistical "Red Flag" metrics (RMS, Kurtosis, Peak-to-Peak) and applying Fast Fourier Transform (FFT) analysis, this project aims to prove how clearly we can distinguish a perfectly healthy machine from one with a broken bearing. Finally, it presents these complex engineering results in a fun, accessible "Spotify Wrapped" format.
 
