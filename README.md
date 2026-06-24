@@ -1,6 +1,6 @@
 # Machine Spotify Wrapped: Bearing Health & Vibration Analysis
 
-## Link to see the direct working in Google Collab
+## Link to see the direct working in Google Colab
 https://colab.research.google.com/drive/1A2o2mPvvk2zwJzQZyTe-5dNoZadQoUcn?usp=sharing
 
 ## Aim of the Project
