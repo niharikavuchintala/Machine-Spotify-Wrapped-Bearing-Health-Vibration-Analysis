@@ -20,6 +20,13 @@ This project uses standard Python data science libraries:
 * **numpy:** Used to process the data and calculate the Fast Fourier Transform (FFT).
 * **matplotlib.pyplot:** Used to draw and plot the raw waves and equalizer graphs.
 
+## What This Code Computes
+The code extracts exactly **4096** vibration readings from each machine and calculates four critical flags:
+1. **Kurtosis (The Spikiness Score):** Detects sudden, sharp impacts caused by the bearing rolling over a crack. 
+2. **RMS (Root Mean Square):** Measures the overall energy, or "loudness," of the machine's vibration.
+3. **Peak-to-Peak:** Measures the maximum swing from the highest vibration to the lowest vibration.
+4. **FFT (Fast Fourier Transform):** Acts like an audio equalizer. It converts the messy raw vibration wave into individual frequencies (pitches) so we can see the specific rhythmic "thud" caused by the broken part.
+
 ## Prerequisites 
 To run this project on your local machine, you will need:
 * **Python 3.x** installed on your computer.
